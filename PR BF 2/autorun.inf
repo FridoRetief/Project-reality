@@ -1,0 +1,5 @@
+[autorun]
+open=autorun.exe
+icon=autorun.ico
+action=Start Project Reality: BF2
+label=PRBF2
